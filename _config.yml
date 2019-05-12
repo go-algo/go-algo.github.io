@@ -24,7 +24,7 @@ github_username: hello-sangwon
 
 google_analytics: UA-139970350-1
 disqus:
-  shortname: disqus_fI2sscSTV4
+  shortname: algotrip
 
 # Build settings
 markdown: kramdown
