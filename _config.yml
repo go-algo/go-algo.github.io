@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Let's go algo trip
-email: goalgotrip@gmail.com
+title: Go Algo
+email: sangwon.s@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Go언어로 알고리즘 문제 풀기
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://algotrip.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://go-algo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username: hello-sangwon
 
 google_analytics: UA-139970350-1
 disqus:
-  shortname: algotrip
+  shortname: go-algo
 
 # Build settings
 markdown: kramdown

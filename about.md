@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Let's go algo trip.
+Go 언어로 알고리즘 문제 풀기
