@@ -24,7 +24,7 @@ github_username: hello-sangwon
 
 google_analytics: UA-139970350-1
 disqus:
-  shortname: go-algo
+  shortname: go-algo-github-io
 
 # Build settings
 markdown: kramdown
